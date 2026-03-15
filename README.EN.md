@@ -19,7 +19,7 @@ A job application tracker built with HTML, CSS, and JavaScript.
 - Google Fonts — Inter
 
 ## Live Demo
-[View Live](https://your-netlify-link-here)
+[View Live](https://job-to-do-list.netlify.app/)
 
 ## How to use
 1. Enter company name, role, category, priority and deadline

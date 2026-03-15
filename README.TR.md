@@ -19,7 +19,7 @@ HTML, CSS ve JavaScript ile geliştirilmiş bir iş başvurusu takip uygulaması
 - Google Fonts — Inter
 
 ## Canlı Demo
-[Uygulamayı Aç](https://your-netlify-link-here)
+[Uygulamayı Aç](https://job-to-do-list.netlify.app/)
 
 ## Nasıl Kullanılır
 1. Şirket adı, pozisyon, kategori, öncelik ve son tarihi gir
