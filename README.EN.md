@@ -1,17 +1,28 @@
 # Job To-Do List
 
-A simple Job application tracker built with HTML, CSS, and JavaScript.
+A job application tracker built with HTML, CSS, and JavaScript.
 
 ## Features
-- Add job applications with Company, Role, Deadline, Category, and Priority.
-- Mark tasks as complete / undo completion.
-- Delete individual tasks or clear all tasks.
-- Dark / Light mode toggle.
-- Data saved in LocalStorage for persistence.
+- Add job applications with Company, Role, Deadline, Category, and Priority
+- Filter tasks by category (Applied, Interview, Offer, Rejected)
+- Sort tasks by priority or deadline
+- Mark tasks as complete / undo completion
+- Delete individual tasks or clear all tasks
+- Color-coded priority badges and status indicators
+- Dark / Light mode toggle
+- Data saved in LocalStorage for persistence
 
-## Screenshot
-![Screenshot](screenshot.png)
+## Tech Stack
+- HTML5
+- CSS3 (Grid, Flexbox, CSS Variables)
+- Vanilla JavaScript
+- Google Fonts — Inter
+
+## Live Demo
+[View Live](https://your-netlify-link-here)
 
 ## How to use
-1. Open `index.html` in a browser.
-2. Add, complete, or delete tasks.
+1. Enter company name, role, category, priority and deadline
+2. Click **Add Task** or press Enter
+3. Use filter buttons to view tasks by category
+4. Use Sort By to order tasks by priority or deadline
